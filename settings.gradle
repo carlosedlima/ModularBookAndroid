@@ -20,6 +20,4 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "ModularBook"
-include ':app'
-include ':home'
-include ':review'
+include ':app', ':home', ':review'
